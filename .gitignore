@@ -1,1 +1,13 @@
-*.class
+build/
+dist/
+target/
+logs/
+temp/
+log
+bin/
+out/
+META-INF/
+.gradle/
+.idea/
+.project
+.classpath
